@@ -59,9 +59,18 @@ Break for 5 minutes!
 Break Suggestion: Take a short walk to refresh your mind.
 ```
 
+## Contributing
+
+Contributions are welcome! 🎉  
+If you'd like to improve this project, feel free to fork the repository, make changes, and submit a pull request. You can also open issues for feature requests or bug reports.
+
 ## License
 This project is licensed under the MIT License.
 
 ## Author
 - Developed by Aditya Maurya
 - GitHub: [Aditya3435](https://github.com/Aditya3435)
+
+---
+
+🚀 **Stay focused and productive!** If you enjoy using this tool, consider giving it a ⭐ on GitHub!
