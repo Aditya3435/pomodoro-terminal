@@ -1,5 +1,5 @@
 # Pomodoro Timer
-
+![Pomodoro Timer](demo.png)
 A terminal-based Pomodoro Timer that helps you stay focused and productive. This timer features multiple session options, progress updates, break suggestions, and a daily focus report.
 
 ## Features
